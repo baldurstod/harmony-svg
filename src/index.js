@@ -1,3 +1,4 @@
+export { checkMarkSVG } from './svg/check_mark.js';
 export { closeSVG } from './svg/close.js';
 export { contentCopySVG } from './svg/content_copy.js';
 export { visibilityOffSVG } from './svg/visibility_off.js';
