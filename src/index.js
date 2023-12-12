@@ -11,3 +11,5 @@ export { textDecreaseSVG } from './svg/text_decrease.js';
 export { textIncreaseSVG } from './svg/text_increase.js';
 export { visibilityOffSVG } from './svg/visibility_off.js';
 export { visibilityOnSVG } from './svg/visibility_on.js';
+export { zoomInSVG } from './svg/zoom_in.js';
+export { zoomOutSVG } from './svg/zoom_out.js';
