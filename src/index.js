@@ -10,6 +10,7 @@ export { contentCopySVG } from './svg/content_copy.js';
 export { favoriteSVG } from './svg/favorite.js';
 export { rotateLeftSVG } from './svg/rotate_left.js';
 export { rotateRightSVG } from './svg/rotate_right.js';
+export { shoppingCartSVG } from './svg/shopping_cart.js';
 export { textDecreaseSVG } from './svg/text_decrease.js';
 export { textIncreaseSVG } from './svg/text_increase.js';
 export { visibilityOffSVG } from './svg/visibility_off.js';
