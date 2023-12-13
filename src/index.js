@@ -28,6 +28,8 @@ export { settingsSVG } from './svg/settings.js';
 export { sfmLogoSVG } from './svg/sfm_logo.js';
 export { shareSVG } from './svg/share.js';
 export { shoppingCartSVG } from './svg/shopping_cart.js';
+export { sortAlphabeticalReverseSVG } from './svg/sort_alphabetical_reverse.js';
+export { sortAlphabeticalSVG } from './svg/sort_alphabetical.js';
 export { textDecreaseSVG } from './svg/text_decrease.js';
 export { textIncreaseSVG } from './svg/text_increase.js';
 export { viewInArSVG } from './svg/view_in_ar.js';
