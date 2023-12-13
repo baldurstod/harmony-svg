@@ -9,6 +9,7 @@ export { closeSVG } from './svg/close.js';
 export { contentCopySVG } from './svg/content_copy.js';
 export { favoriteSVG } from './svg/favorite.js';
 export { mailSVG } from './svg/mail.js';
+export { overscanSVG } from './svg/overscan.js';
 export { rotateLeftSVG } from './svg/rotate_left.js';
 export { rotateRightSVG } from './svg/rotate_right.js';
 export { shoppingCartSVG } from './svg/shopping_cart.js';
