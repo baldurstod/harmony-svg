@@ -2,7 +2,7 @@ export { arrowDownwardAltSVG } from './svg/arrow_downward_alt.js';
 export { arrowLeftAltSVG } from './svg/arrow_left_alt.js';
 export { arrowRightAltSVG } from './svg/arrow_right_alt.js';
 export { arrowUpwardAltSVG } from './svg/arrow_upward_alt.js';
-export { checkMarkSVG } from './svg/check_mark.js';
+export { checkSVG } from './svg/check.js';
 export { closeSVG } from './svg/close.js';
 export { contentCopySVG } from './svg/content_copy.js';
 export { rotateLeftSVG } from './svg/rotate_left.js';
