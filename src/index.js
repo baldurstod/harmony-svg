@@ -14,6 +14,7 @@ export { fireSVG } from './svg/fire.js';
 export { mailSVG } from './svg/mail.js';
 export { manufacturingSVG } from './svg/manufacturing.js';
 export { moreHorizSVG } from './svg/more_horiz.js';
+export { openInNewSVG } from './svg/open_in_new.js';
 export { overscanSVG } from './svg/overscan.js';
 export { patreonLogoSVG } from './svg/patreon_logo.js';
 export { pauseSVG } from './svg/pause.js';
