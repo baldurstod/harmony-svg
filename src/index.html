@@ -1,27 +1,42 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<style>
-			html{
-				background-color: black;
-				color: white;
-			}
-		</style>
-		<script type="module">
-			import * as moduleSVG from './index.js';
-			for (const key in moduleSVG) {
 
-				const line = document.createElement('div');
-				const label = document.createElement('span');
-				label.innerText = key;
-				const svg = document.createElement('span');
-				svg.innerHTML = moduleSVG[key];
-				//line.innerHTML = value;
+<head>
+	<meta charset="utf-8">
+	<style>
+		html {
+			background-color: black;
+			color: white;
+		}
 
-				line.append(svg, label);
-				document.body.append(line);
-			}
-		</script>
-	</head>
+		body {
+			margin: 0;
+		}
+	</style>
+	<script type="module">
+		import * as moduleSVG from './index.js';
+
+		const htmlBgPicker = document.createElement('input');
+		const htmlColorPicker = document.createElement('input');
+		htmlBgPicker.type = 'color';
+		htmlColorPicker.type = 'color';
+		htmlBgPicker.addEventListener('input', event => document.body.style.backgroundColor = event.target.value);
+		htmlColorPicker.addEventListener('input', event => document.body.style.color = event.target.value);
+		document.body.append(htmlBgPicker, htmlColorPicker);
+
+		for (const key in moduleSVG) {
+
+			const line = document.createElement('div');
+			const label = document.createElement('span');
+			label.innerText = key;
+			const svg = document.createElement('span');
+			svg.innerHTML = moduleSVG[key];
+			//line.innerHTML = value;
+
+			line.append(svg, label);
+			document.body.append(line);
+		}
+	</script>
+</head>
+
 </html>
