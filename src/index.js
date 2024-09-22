@@ -23,6 +23,7 @@ export { photoCameraSVG } from './svg/photo_camera.js';
 export { playSVG } from './svg/play.js';
 export { playListAddSVG } from './svg/playlist_add.js';
 export { print3dSVG } from './svg/print3d.js';
+export { restartSVG } from './svg/restart.js';
 export { rotateLeftSVG } from './svg/rotate_left.js';
 export { rotateRightSVG } from './svg/rotate_right.js';
 export { runSVG } from './svg/run.js';
