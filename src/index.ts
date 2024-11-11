@@ -11,6 +11,8 @@ export { contentCopySVG } from './svg/content_copy';
 export { cycleSVG } from './svg/cycle';
 export { favoriteSVG } from './svg/favorite';
 export { fireSVG } from './svg/fire';
+export { folderOpenSVG } from './svg/folder_open';
+export { folderSVG } from './svg/folder';
 export { lapsSVG } from './svg/laps';
 export { mailSVG } from './svg/mail';
 export { manufacturingSVG } from './svg/manufacturing';

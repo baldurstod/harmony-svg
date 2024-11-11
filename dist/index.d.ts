@@ -24,6 +24,10 @@ export declare const favoriteSVG: string;
 
 export declare const fireSVG: string;
 
+export declare const folderOpenSVG: string;
+
+export declare const folderSVG: string;
+
 export declare const lapsSVG: string;
 
 export declare const mailSVG: string;
