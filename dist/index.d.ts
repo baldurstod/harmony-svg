@@ -28,6 +28,8 @@ export declare const folderOpenSVG: string;
 
 export declare const folderSVG: string;
 
+export declare const helpSVG: string;
+
 export declare const lapsSVG: string;
 
 export declare const mailSVG: string;
@@ -51,6 +53,8 @@ export declare const playListAddSVG: string;
 export declare const playSVG: string;
 
 export declare const print3dSVG: string;
+
+export declare const questionMarkSVG: string;
 
 export declare const restartSVG: string;
 
