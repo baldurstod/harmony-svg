@@ -30,6 +30,8 @@ export declare const folderSVG: string;
 
 export declare const helpSVG: string;
 
+export declare const infoSVG: string;
+
 export declare const lapsSVG: string;
 
 export declare const mailSVG: string;

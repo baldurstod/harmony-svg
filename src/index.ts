@@ -14,6 +14,7 @@ export { fireSVG } from './svg/fire';
 export { folderOpenSVG } from './svg/folder_open';
 export { folderSVG } from './svg/folder';
 export { helpSVG } from './svg/help';
+export { infoSVG } from './svg/info';
 export { lapsSVG } from './svg/laps';
 export { mailSVG } from './svg/mail';
 export { manufacturingSVG } from './svg/manufacturing';
