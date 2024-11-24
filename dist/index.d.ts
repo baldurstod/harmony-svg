@@ -20,6 +20,8 @@ export declare const contentCopySVG: string;
 
 export declare const cycleSVG: string;
 
+export declare const dragPanSVG: string;
+
 export declare const favoriteSVG: string;
 
 export declare const fireSVG: string;
@@ -42,7 +44,11 @@ export declare const moreHorizSVG: string;
 
 export declare const openInNewSVG: string;
 
+export declare const openWithSVG: string;
+
 export declare const overscanSVG: string;
+
+export declare const panZoomSVG: string;
 
 export declare const patreonLogoSVG: string;
 
@@ -60,9 +66,13 @@ export declare const questionMarkSVG: string;
 
 export declare const restartSVG: string;
 
+export declare const rotate360SVG: string;
+
 export declare const rotateLeftSVG: string;
 
 export declare const rotateRightSVG: string;
+
+export declare const rotateSVG: string;
 
 export declare const runSVG: string;
 
