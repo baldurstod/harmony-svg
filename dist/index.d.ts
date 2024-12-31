@@ -86,6 +86,8 @@ export declare const shareSVG: string;
 
 export declare const shoppingCartSVG: string;
 
+export declare const skeletonSVG: string;
+
 export declare const sortAlphabeticalReverseSVG: string;
 
 export declare const sortAlphabeticalSVG: string;

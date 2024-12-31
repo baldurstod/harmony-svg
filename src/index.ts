@@ -42,6 +42,7 @@ export { settingsSVG } from './svg/settings';
 export { sfmLogoSVG } from './svg/sfm_logo';
 export { shareSVG } from './svg/share';
 export { shoppingCartSVG } from './svg/shopping_cart';
+export { skeletonSVG } from './svg/skeleton';
 export { sortAlphabeticalReverseSVG } from './svg/sort_alphabetical_reverse';
 export { sortAlphabeticalSVG } from './svg/sort_alphabetical';
 export { sprintSVG } from './svg/sprint';
