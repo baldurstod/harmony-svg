@@ -64,6 +64,14 @@ export declare const print3dSVG: string;
 
 export declare const questionMarkSVG: string;
 
+export declare const repeatOneOnSVG: string;
+
+export declare const repeatOneSVG: string;
+
+export declare const repeatOnSVG: string;
+
+export declare const repeatSVG: string;
+
 export declare const restartSVG: string;
 
 export declare const rotate360SVG: string;
