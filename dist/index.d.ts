@@ -18,6 +18,8 @@ export declare const closeSVG: string;
 
 export declare const contentCopySVG: string;
 
+export declare const cropPortraitSVG: string;
+
 export declare const cycleSVG: string;
 
 export declare const dragPanSVG: string;
@@ -26,9 +28,19 @@ export declare const favoriteSVG: string;
 
 export declare const fireSVG: string;
 
+export declare const flexWrapSVG: string;
+
 export declare const folderOpenSVG: string;
 
 export declare const folderSVG: string;
+
+export declare const gridOffsetSVG: string;
+
+export declare const gridOffSVG: string;
+
+export declare const gridOnSVG: string;
+
+export declare const gridRegularSVG: string;
 
 export declare const helpSVG: string;
 
@@ -102,11 +114,17 @@ export declare const sortAlphabeticalSVG: string;
 
 export declare const sprintSVG: string;
 
+export declare const tableRowsSVG: string;
+
 export declare const textDecreaseSVG: string;
 
 export declare const textIncreaseSVG: string;
 
+export declare const viewColumnsSVG: string;
+
 export declare const viewInArSVG: string;
+
+export declare const viewTimelineSVG: string;
 
 export declare const visibilityOffSVG: string;
 
