@@ -8,6 +8,8 @@ export declare const arrowUpwardAltSVG: string;
 
 export declare const bookmarksPlainSVG: string;
 
+export declare const borderClearSVG: string;
+
 export declare const bugReportSVG: string;
 
 export declare const checkOutlineSVG: string;
@@ -21,6 +23,8 @@ export declare const contentCopySVG: string;
 export declare const cropPortraitSVG: string;
 
 export declare const cycleSVG: string;
+
+export declare const dashboardSVG: string;
 
 export declare const dragPanSVG: string;
 
