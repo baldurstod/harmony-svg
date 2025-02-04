@@ -4,6 +4,7 @@ export { arrowRightAltSVG } from './svg/arrow_right_alt';
 export { arrowUpwardAltSVG } from './svg/arrow_upward_alt';
 export { bookmarksPlainSVG } from './svg/bookmarks_plain';
 export { borderClearSVG } from './svg/border_clear';
+export { brickLayoutSVG } from './svg/brick_layout';
 export { bugReportSVG } from './svg/bug_report';
 export { checkOutlineSVG } from './svg/check_outline';
 export { checkSVG } from './svg/check';

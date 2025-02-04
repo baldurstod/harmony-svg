@@ -10,6 +10,8 @@ export declare const bookmarksPlainSVG: string;
 
 export declare const borderClearSVG: string;
 
+export declare const brickLayoutSVG: string;
+
 export declare const bugReportSVG: string;
 
 export declare const checkOutlineSVG: string;
