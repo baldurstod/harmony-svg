@@ -54,6 +54,12 @@ export declare const infoSVG: string;
 
 export declare const lapsSVG: string;
 
+export declare const lockOpenRightSVG: string;
+
+export declare const lockOpenSVG: string;
+
+export declare const lockSVG: string;
+
 export declare const mailSVG: string;
 
 export declare const manufacturingSVG: string;
@@ -74,7 +80,7 @@ export declare const pauseSVG: string;
 
 export declare const photoCameraSVG: string;
 
-export declare const playListAddSVG: string;
+export declare const playlistAddSVG: string;
 
 export declare const playSVG: string;
 
@@ -126,7 +132,7 @@ export declare const textDecreaseSVG: string;
 
 export declare const textIncreaseSVG: string;
 
-export declare const viewColumnsSVG: string;
+export declare const viewColumnSVG: string;
 
 export declare const viewInArSVG: string;
 
