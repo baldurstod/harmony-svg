@@ -62,6 +62,8 @@ export declare const lockSVG: string;
 
 export declare const mailSVG: string;
 
+export declare const manageAccountsSVG: string;
+
 export declare const manufacturingSVG: string;
 
 export declare const moreHorizSVG: string;
@@ -77,6 +79,8 @@ export declare const panZoomSVG: string;
 export declare const patreonLogoSVG: string;
 
 export declare const pauseSVG: string;
+
+export declare const personSVG: string;
 
 export declare const photoCameraSVG: string;
 
