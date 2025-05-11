@@ -14,6 +14,8 @@ export declare const brickLayoutSVG: string;
 
 export declare const bugReportSVG: string;
 
+export declare const checkCircleSVG: string;
+
 export declare const checkOutlineSVG: string;
 
 export declare const checkSVG: string;
@@ -26,9 +28,13 @@ export declare const cropPortraitSVG: string;
 
 export declare const cycleSVG: string;
 
+export declare const dangerousSVG: string;
+
 export declare const dashboardSVG: string;
 
 export declare const dragPanSVG: string;
+
+export declare const errorSVG: string;
 
 export declare const favoriteSVG: string;
 
@@ -147,6 +153,8 @@ export declare const visibilityOffSVG: string;
 export declare const visibilityOnSVG: string;
 
 export declare const walkSVG: string;
+
+export declare const warningSVG: string;
 
 export declare const zoomInSVG: string;
 
