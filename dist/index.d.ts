@@ -38,6 +38,8 @@ export declare const errorSVG: string;
 
 export declare const favoriteSVG: string;
 
+export declare const fileExportSVG: string;
+
 export declare const fireSVG: string;
 
 export declare const flexWrapSVG: string;
