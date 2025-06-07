@@ -32,6 +32,8 @@ export declare const dangerousSVG: string;
 
 export declare const dashboardSVG: string;
 
+export declare const downloadSVG: string;
+
 export declare const dragPanSVG: string;
 
 export declare const errorSVG: string;
@@ -143,6 +145,8 @@ export declare const tableRowsSVG: string;
 export declare const textDecreaseSVG: string;
 
 export declare const textIncreaseSVG: string;
+
+export declare const uploadSVG: string;
 
 export declare const viewColumnSVG: string;
 
