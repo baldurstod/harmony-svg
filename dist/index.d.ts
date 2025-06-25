@@ -6,6 +6,8 @@ export declare const arrowRightAltSVG: string;
 
 export declare const arrowUpwardAltSVG: string;
 
+export declare const backgroundReplaceSVG: string;
+
 export declare const bookmarksPlainSVG: string;
 
 export declare const borderClearSVG: string;
@@ -146,6 +148,8 @@ export declare const textDecreaseSVG: string;
 
 export declare const textIncreaseSVG: string;
 
+export declare const textureSVG: string;
+
 export declare const uploadSVG: string;
 
 export declare const viewColumnSVG: string;
@@ -159,6 +163,8 @@ export declare const visibilityOffSVG: string;
 export declare const visibilityOnSVG: string;
 
 export declare const walkSVG: string;
+
+export declare const wallpaperSVG: string;
 
 export declare const warningSVG: string;
 
