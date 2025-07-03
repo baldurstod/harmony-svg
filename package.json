@@ -1,8 +1,9 @@
 {
   "name": "harmony-svg",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "devDependencies": {
     "@rollup/plugin-typescript": "^12.1.1",
     "rollup": "^4.24.3",
