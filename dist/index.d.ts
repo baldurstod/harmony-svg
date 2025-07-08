@@ -78,6 +78,8 @@ export declare const manageAccountsSVG: string;
 
 export declare const manufacturingSVG: string;
 
+export declare const mediationSVG: string;
+
 export declare const moreHorizSVG: string;
 
 export declare const openInNewSVG: string;
