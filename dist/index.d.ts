@@ -38,6 +38,10 @@ export declare const downloadSVG: string;
 
 export declare const dragPanSVG: string;
 
+export declare const earthquakeSVG: string;
+
+export declare const equalizerSVG: string;
+
 export declare const errorSVG: string;
 
 export declare const favoriteSVG: string;
@@ -51,6 +55,8 @@ export declare const flexWrapSVG: string;
 export declare const folderOpenSVG: string;
 
 export declare const folderSVG: string;
+
+export declare const graphicEqSVG: string;
 
 export declare const gridOffsetSVG: string;
 
@@ -163,6 +169,12 @@ export declare const viewTimelineSVG: string;
 export declare const visibilityOffSVG: string;
 
 export declare const visibilityOnSVG: string;
+
+export declare const volumeDownSVG: string;
+
+export declare const volumeOffSVG: string;
+
+export declare const volumeUpSVG: string;
 
 export declare const walkSVG: string;
 
