@@ -1,3 +1,7 @@
+export declare const addTaskSVG: string;
+
+export declare const addToQueueSVG: string;
+
 export declare const arrowDownwardAltSVG: string;
 
 export declare const arrowLeftAltSVG: string;
@@ -5,6 +9,8 @@ export declare const arrowLeftAltSVG: string;
 export declare const arrowRightAltSVG: string;
 
 export declare const arrowUpwardAltSVG: string;
+
+export declare const assignmentAddSVG: string;
 
 export declare const backgroundReplaceSVG: string;
 
@@ -33,6 +39,8 @@ export declare const cycleSVG: string;
 export declare const dangerousSVG: string;
 
 export declare const dashboardSVG: string;
+
+export declare const doneAllSVG: string;
 
 export declare const downloadSVG: string;
 
@@ -72,11 +80,15 @@ export declare const infoSVG: string;
 
 export declare const lapsSVG: string;
 
+export declare const listAltAddSVG: string;
+
 export declare const lockOpenRightSVG: string;
 
 export declare const lockOpenSVG: string;
 
 export declare const lockSVG: string;
+
+export declare const lowPrioritySVG: string;
 
 export declare const mailSVG: string;
 
