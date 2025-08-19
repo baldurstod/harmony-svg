@@ -22,6 +22,8 @@ export declare const brickLayoutSVG: string;
 
 export declare const bugReportSVG: string;
 
+export declare const cameraswitchSVG: string;
+
 export declare const checkCircleSVG: string;
 
 export declare const checkOutlineSVG: string;
@@ -31,6 +33,8 @@ export declare const checkSVG: string;
 export declare const closeSVG: string;
 
 export declare const contentCopySVG: string;
+
+export declare const controlCameraSVG: string;
 
 export declare const cropPortraitSVG: string;
 
@@ -55,6 +59,8 @@ export declare const errorSVG: string;
 export declare const favoriteSVG: string;
 
 export declare const fileExportSVG: string;
+
+export declare const filterCenterFocusSVG: string;
 
 export declare const fireSVG: string;
 
@@ -98,6 +104,8 @@ export declare const manufacturingSVG: string;
 
 export declare const mediationSVG: string;
 
+export declare const monochromePhotosSVG: string;
+
 export declare const moreHorizSVG: string;
 
 export declare const openInNewSVG: string;
@@ -132,6 +140,10 @@ export declare const repeatOnSVG: string;
 
 export declare const repeatSVG: string;
 
+export declare const resetCameraSVG: string;
+
+export declare const resetFocusSVG: string;
+
 export declare const restartSVG: string;
 
 export declare const rotate360SVG: string;
@@ -144,7 +156,11 @@ export declare const rotateSVG: string;
 
 export declare const runSVG: string;
 
+export declare const screenshotFrameSVG: string;
+
 export declare const sentimentExcitedSVG: string;
+
+export declare const settingsPhotoCameraSVG: string;
 
 export declare const settingsSVG: string;
 
@@ -159,6 +175,8 @@ export declare const skeletonSVG: string;
 export declare const sortAlphabeticalReverseSVG: string;
 
 export declare const sortAlphabeticalSVG: string;
+
+export declare const speedCameraSVG: string;
 
 export declare const sprintSVG: string;
 
