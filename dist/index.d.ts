@@ -14,6 +14,8 @@ export declare const assignmentAddSVG: string;
 
 export declare const backgroundReplaceSVG: string;
 
+export declare const blockSVG: string;
+
 export declare const bookmarksPlainSVG: string;
 
 export declare const borderClearSVG: string;
@@ -23,6 +25,8 @@ export declare const brickLayoutSVG: string;
 export declare const bugReportSVG: string;
 
 export declare const cameraswitchSVG: string;
+
+export declare const cancelSVG: string;
 
 export declare const checkCircleSVG: string;
 
@@ -119,6 +123,8 @@ export declare const panZoomSVG: string;
 export declare const patreonLogoSVG: string;
 
 export declare const pauseSVG: string;
+
+export declare const personRemoveSVG: string;
 
 export declare const personSVG: string;
 
