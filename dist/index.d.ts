@@ -74,6 +74,8 @@ export declare const folderOpenSVG: string;
 
 export declare const folderSVG: string;
 
+export declare const fullscreenSVG: string;
+
 export declare const graphicEqSVG: string;
 
 export declare const gridOffsetSVG: string;
