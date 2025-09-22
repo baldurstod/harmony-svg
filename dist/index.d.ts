@@ -12,6 +12,8 @@ export declare const arrowUpwardAltSVG: string;
 
 export declare const assignmentAddSVG: string;
 
+export declare const audioFileSVG: string;
+
 export declare const backgroundReplaceSVG: string;
 
 export declare const blockSVG: string;
@@ -60,6 +62,10 @@ export declare const equalizerSVG: string;
 
 export declare const errorSVG: string;
 
+export declare const extensionOffSVG: string;
+
+export declare const extensionSVG: string;
+
 export declare const favoriteSVG: string;
 
 export declare const fileExportSVG: string;
@@ -73,6 +79,8 @@ export declare const flexWrapSVG: string;
 export declare const folderOpenSVG: string;
 
 export declare const folderSVG: string;
+
+export declare const formatShapesSVG: string;
 
 export declare const fullscreenExitSVG: string;
 
@@ -89,6 +97,8 @@ export declare const gridOnSVG: string;
 export declare const gridRegularSVG: string;
 
 export declare const helpSVG: string;
+
+export declare const highlightSVG: string;
 
 export declare const infoSVG: string;
 
