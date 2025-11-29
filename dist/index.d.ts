@@ -200,6 +200,8 @@ export declare const speedCameraSVG: string;
 
 export declare const sprintSVG: string;
 
+export declare const starSVG: string;
+
 export declare const tableRowsSVG: string;
 
 export declare const textDecreaseSVG: string;
