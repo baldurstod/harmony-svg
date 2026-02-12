@@ -18,6 +18,8 @@ export declare const backgroundReplaceSVG: string;
 
 export declare const blockSVG: string;
 
+export declare const boneSVG: string;
+
 export declare const bookmarksPlainSVG: string;
 
 export declare const borderClearSVG: string;
