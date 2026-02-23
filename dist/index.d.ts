@@ -32,6 +32,8 @@ export declare const cameraswitchSVG: string;
 
 export declare const cancelSVG: string;
 
+export declare const casinoSVG: string;
+
 export declare const checkCircleSVG: string;
 
 export declare const checkOutlineSVG: string;
@@ -128,6 +130,8 @@ export declare const monochromePhotosSVG: string;
 
 export declare const moreHorizSVG: string;
 
+export declare const movieSVG: string;
+
 export declare const openInNewSVG: string;
 
 export declare const openWithSVG: string;
@@ -153,6 +157,8 @@ export declare const playSVG: string;
 export declare const print3dSVG: string;
 
 export declare const questionMarkSVG: string;
+
+export declare const redoSVG: string;
 
 export declare const repeatOneOnSVG: string;
 
@@ -212,7 +218,11 @@ export declare const textIncreaseSVG: string;
 
 export declare const textureSVG: string;
 
+export declare const undoSVG: string;
+
 export declare const uploadSVG: string;
+
+export declare const videocamSVG: string;
 
 export declare const viewColumnSVG: string;
 
