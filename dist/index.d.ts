@@ -172,6 +172,10 @@ export declare const resetCameraSVG: string;
 
 export declare const resetFocusSVG: string;
 
+export declare const resetSettingsSVG: string;
+
+export declare const resetWrenchSVG: string;
+
 export declare const restartSVG: string;
 
 export declare const rotate360SVG: string;
