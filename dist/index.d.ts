@@ -138,6 +138,8 @@ export declare const openWithSVG: string;
 
 export declare const overscanSVG: string;
 
+export declare const paletteSVG: string;
+
 export declare const panZoomSVG: string;
 
 export declare const patreonLogoSVG: string;
