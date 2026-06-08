@@ -218,6 +218,8 @@ export declare const starSVG: string;
 
 export declare const tableRowsSVG: string;
 
+export declare const targetSVG: string;
+
 export declare const textDecreaseSVG: string;
 
 export declare const textIncreaseSVG: string;
