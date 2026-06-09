@@ -28,6 +28,8 @@ export declare const bookmarksPlainSVG: string;
 
 export declare const borderClearSVG: string;
 
+export declare const brandFamilySVG: string;
+
 export declare const brickLayoutSVG: string;
 
 export declare const bugReportSVG: string;
@@ -70,6 +72,8 @@ export declare const equalizerSVG: string;
 
 export declare const errorSVG: string;
 
+export declare const experimentSVG: string;
+
 export declare const extensionOffSVG: string;
 
 export declare const extensionSVG: string;
@@ -96,6 +100,8 @@ export declare const fullscreenSVG: string;
 
 export declare const graphicEqSVG: string;
 
+export declare const grid4x4SVG: string;
+
 export declare const gridOffsetSVG: string;
 
 export declare const gridOffSVG: string;
@@ -104,6 +110,8 @@ export declare const gridOnSVG: string;
 
 export declare const gridRegularSVG: string;
 
+export declare const groupWorkSVG: string;
+
 export declare const helpSVG: string;
 
 export declare const highlightSVG: string;
@@ -111,6 +119,14 @@ export declare const highlightSVG: string;
 export declare const infoSVG: string;
 
 export declare const lapsSVG: string;
+
+export declare const lensBlurSVG: string;
+
+export declare const lightbulbSVG: string;
+
+export declare const lightModeSVG: string;
+
+export declare const lightOffSVG: string;
 
 export declare const listAltAddSVG: string;
 
@@ -226,6 +242,8 @@ export declare const speedCameraSVG: string;
 
 export declare const sprintSVG: string;
 
+export declare const stacksSVG: string;
+
 export declare const starSVG: string;
 
 export declare const tabCloseSVG: string;
@@ -267,6 +285,8 @@ export declare const walkSVG: string;
 export declare const wallpaperSVG: string;
 
 export declare const warningSVG: string;
+
+export declare const wbIncandescentSVG: string;
 
 export declare const zoomInSVG: string;
 
