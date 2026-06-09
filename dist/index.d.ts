@@ -2,6 +2,8 @@ export declare const addTaskSVG: string;
 
 export declare const addToQueueSVG: string;
 
+export declare const animationSVG: string;
+
 export declare const arrowDownwardAltSVG: string;
 
 export declare const arrowLeftAltSVG: string;
@@ -13,6 +15,8 @@ export declare const arrowUpwardAltSVG: string;
 export declare const assignmentAddSVG: string;
 
 export declare const audioFileSVG: string;
+
+export declare const autoAwesomeMotionSVG: string;
 
 export declare const backgroundReplaceSVG: string;
 
@@ -132,6 +136,8 @@ export declare const moreHorizSVG: string;
 
 export declare const movieSVG: string;
 
+export declare const myLocationSVG: string;
+
 export declare const openInNewSVG: string;
 
 export declare const openWithSVG: string;
@@ -159,6 +165,10 @@ export declare const playSVG: string;
 export declare const print3dSVG: string;
 
 export declare const questionMarkSVG: string;
+
+export declare const rebaseEditSVG: string;
+
+export declare const rebaseSVG: string;
 
 export declare const redoSVG: string;
 
@@ -188,6 +198,8 @@ export declare const rotateRightSVG: string;
 
 export declare const rotateSVG: string;
 
+export declare const runCircleSVG: string;
+
 export declare const runSVG: string;
 
 export declare const screenshotFrameSVG: string;
@@ -215,6 +227,8 @@ export declare const speedCameraSVG: string;
 export declare const sprintSVG: string;
 
 export declare const starSVG: string;
+
+export declare const tabCloseSVG: string;
 
 export declare const tableRowsSVG: string;
 
