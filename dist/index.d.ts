@@ -262,6 +262,8 @@ export declare const undoSVG: string;
 
 export declare const uploadSVG: string;
 
+export declare const videoCameraBackAddSVG: string;
+
 export declare const videocamSVG: string;
 
 export declare const viewColumnSVG: string;
