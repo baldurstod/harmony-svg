@@ -1,3 +1,5 @@
+export declare const addLocationAltSVG: string;
+
 export declare const addTaskSVG: string;
 
 export declare const addToQueueSVG: string;
@@ -48,6 +50,10 @@ export declare const checkSVG: string;
 
 export declare const closeSVG: string;
 
+export declare const codeSVG: string;
+
+export declare const codeXmlSVG: string;
+
 export declare const contentCopySVG: string;
 
 export declare const controlCameraSVG: string;
@@ -81,6 +87,10 @@ export declare const extensionSVG: string;
 export declare const favoriteSVG: string;
 
 export declare const fileExportSVG: string;
+
+export declare const fileOpenSVG: string;
+
+export declare const fileSaveSVG: string;
 
 export declare const filterCenterFocusSVG: string;
 
@@ -118,7 +128,13 @@ export declare const highlightSVG: string;
 
 export declare const infoSVG: string;
 
+export declare const inventory2SVG: string;
+
+export declare const inventorySVG: string;
+
 export declare const lapsSVG: string;
+
+export declare const layersSVG: string;
 
 export declare const lensBlurSVG: string;
 
@@ -218,6 +234,8 @@ export declare const runCircleSVG: string;
 
 export declare const runSVG: string;
 
+export declare const saveSVG: string;
+
 export declare const screenshotFrameSVG: string;
 
 export declare const sentimentExcitedSVG: string;
@@ -265,6 +283,8 @@ export declare const uploadSVG: string;
 export declare const videoCameraBackAddSVG: string;
 
 export declare const videocamSVG: string;
+
+export declare const videoFrameSaveSVG: string;
 
 export declare const viewColumnSVG: string;
 
