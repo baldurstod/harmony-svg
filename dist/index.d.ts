@@ -1,6 +1,16 @@
+export declare const accessibilitySVG: string;
+
+export declare const addColumnRightSVG: string;
+
+export declare const addColumnSVG: string;
+
 export declare const addLocationAltSVG: string;
 
 export declare const addReactionSVG: string;
+
+export declare const addRowAboveSVG: string;
+
+export declare const addRowBelowSVG: string;
 
 export declare const addTaskSVG: string;
 
@@ -56,6 +66,8 @@ export declare const codeSVG: string;
 
 export declare const codeXmlSVG: string;
 
+export declare const conditionsSVG: string;
+
 export declare const contentCopySVG: string;
 
 export declare const controlCameraSVG: string;
@@ -77,6 +89,8 @@ export declare const dragPanSVG: string;
 export declare const earthquakeSVG: string;
 
 export declare const emojiObjectsSVG: string;
+
+export declare const emojiPeopleSVG: string;
 
 export declare const equalizerSVG: string;
 
@@ -131,6 +145,8 @@ export declare const groupWorkSVG: string;
 export declare const helpSVG: string;
 
 export declare const highlightSVG: string;
+
+export declare const homeSVG: string;
 
 export declare const infoSVG: string;
 
