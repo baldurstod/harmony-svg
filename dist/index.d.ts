@@ -12,6 +12,8 @@ export declare const addRowAboveSVG: string;
 
 export declare const addRowBelowSVG: string;
 
+export declare const addSVG: string;
+
 export declare const addTaskSVG: string;
 
 export declare const addToQueueSVG: string;
@@ -80,6 +82,8 @@ export declare const dangerousSVG: string;
 
 export declare const dashboardSVG: string;
 
+export declare const deleteSVG: string;
+
 export declare const doneAllSVG: string;
 
 export declare const downloadSVG: string;
@@ -111,6 +115,8 @@ export declare const fileExportSVG: string;
 export declare const fileOpenSVG: string;
 
 export declare const fileSaveSVG: string;
+
+export declare const filterAltSVG: string;
 
 export declare const filterCenterFocusSVG: string;
 
@@ -176,6 +182,8 @@ export declare const lockOpenSVG: string;
 
 export declare const lockSVG: string;
 
+export declare const logoutSVG: string;
+
 export declare const lowPrioritySVG: string;
 
 export declare const mailSVG: string;
@@ -186,9 +194,13 @@ export declare const manufacturingSVG: string;
 
 export declare const mediationSVG: string;
 
+export declare const menuSVG: string;
+
 export declare const monochromePhotosSVG: string;
 
 export declare const moreHorizSVG: string;
+
+export declare const moreVertSVG: string;
 
 export declare const movieSVG: string;
 
@@ -232,6 +244,8 @@ export declare const rebaseSVG: string;
 
 export declare const redoSVG: string;
 
+export declare const removeSVG: string;
+
 export declare const repeatOneOnSVG: string;
 
 export declare const repeatOneSVG: string;
@@ -265,6 +279,8 @@ export declare const runSVG: string;
 export declare const saveSVG: string;
 
 export declare const screenshotFrameSVG: string;
+
+export declare const searchSVG: string;
 
 export declare const sentimentExcitedSVG: string;
 
