@@ -1,5 +1,7 @@
 export declare const addLocationAltSVG: string;
 
+export declare const addReactionSVG: string;
+
 export declare const addTaskSVG: string;
 
 export declare const addToQueueSVG: string;
@@ -74,6 +76,8 @@ export declare const dragPanSVG: string;
 
 export declare const earthquakeSVG: string;
 
+export declare const emojiObjectsSVG: string;
+
 export declare const equalizerSVG: string;
 
 export declare const errorSVG: string;
@@ -83,6 +87,8 @@ export declare const experimentSVG: string;
 export declare const extensionOffSVG: string;
 
 export declare const extensionSVG: string;
+
+export declare const fallingSVG: string;
 
 export declare const favoriteSVG: string;
 
@@ -144,6 +150,8 @@ export declare const lightModeSVG: string;
 
 export declare const lightOffSVG: string;
 
+export declare const lipsSVG: string;
+
 export declare const listAltAddSVG: string;
 
 export declare const lockOpenRightSVG: string;
@@ -183,6 +191,10 @@ export declare const panZoomSVG: string;
 export declare const patreonLogoSVG: string;
 
 export declare const pauseSVG: string;
+
+export declare const personAddSVG: string;
+
+export declare const personCancelSVG: string;
 
 export declare const personRemoveSVG: string;
 
@@ -269,6 +281,8 @@ export declare const tabCloseSVG: string;
 export declare const tableRowsSVG: string;
 
 export declare const targetSVG: string;
+
+export declare const tauntSVG: string;
 
 export declare const textDecreaseSVG: string;
 
