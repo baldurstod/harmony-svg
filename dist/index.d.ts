@@ -18,6 +18,8 @@ export declare const addTaskSVG: string;
 
 export declare const addToQueueSVG: string;
 
+export declare const airwaveSVG: string;
+
 export declare const animationSVG: string;
 
 export declare const arrowDownwardAltSVG: string;
@@ -50,6 +52,8 @@ export declare const brickLayoutSVG: string;
 
 export declare const bugReportSVG: string;
 
+export declare const cadenceSVG: string;
+
 export declare const cameraswitchSVG: string;
 
 export declare const cancelSVG: string;
@@ -73,6 +77,8 @@ export declare const conditionsSVG: string;
 export declare const contentCopySVG: string;
 
 export declare const controlCameraSVG: string;
+
+export declare const controlPointDuplicateSVG: string;
 
 export declare const cropPortraitSVG: string;
 
@@ -107,6 +113,10 @@ export declare const extensionOffSVG: string;
 export declare const extensionSVG: string;
 
 export declare const fallingSVG: string;
+
+export declare const fastForwardSVG: string;
+
+export declare const fastRewindSVG: string;
 
 export declare const favoriteSVG: string;
 
@@ -160,6 +170,14 @@ export declare const inventory2SVG: string;
 
 export declare const inventorySVG: string;
 
+export declare const keyboardDoubleArrowDownSVG: string;
+
+export declare const keyboardDoubleArrowLeftSVG: string;
+
+export declare const keyboardDoubleArrowRightSVG: string;
+
+export declare const keyboardDoubleArrowUpSVG: string;
+
 export declare const lapsSVG: string;
 
 export declare const layersSVG: string;
@@ -204,6 +222,10 @@ export declare const moreVertSVG: string;
 
 export declare const movieSVG: string;
 
+export declare const musicNoteSVG: string;
+
+export declare const musicOffSVG: string;
+
 export declare const myLocationSVG: string;
 
 export declare const openInNewSVG: string;
@@ -234,6 +256,8 @@ export declare const playlistAddSVG: string;
 
 export declare const playSVG: string;
 
+export declare const pointScanSVG: string;
+
 export declare const print3dSVG: string;
 
 export declare const questionMarkSVG: string;
@@ -253,6 +277,8 @@ export declare const repeatOneSVG: string;
 export declare const repeatOnSVG: string;
 
 export declare const repeatSVG: string;
+
+export declare const replaySVG: string;
 
 export declare const resetCameraSVG: string;
 
@@ -296,6 +322,10 @@ export declare const shoppingCartSVG: string;
 
 export declare const skeletonSVG: string;
 
+export declare const skipNextSVG: string;
+
+export declare const skipPreviousSVG: string;
+
 export declare const sortAlphabeticalReverseSVG: string;
 
 export declare const sortAlphabeticalSVG: string;
@@ -323,6 +353,10 @@ export declare const textIncreaseSVG: string;
 export declare const textureSVG: string;
 
 export declare const undoSVG: string;
+
+export declare const unfoldLessDoubleSVG: string;
+
+export declare const unfoldMoreDoubleSVG: string;
 
 export declare const uploadSVG: string;
 
