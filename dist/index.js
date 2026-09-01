@@ -26,17 +26,17 @@ const arrowDownwardAltSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24"
 
 const arrowLeftAltSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor"><path d="M400-240 160-480l240-240 56 58-142 142h486v80H314l142 142-56 58Z"/></svg>';
 
-const arrowMenuCloseSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M440-280v-400L240-480l200 200Zm80 160h80v-720h-80v720Z"/></svg';
+const arrowMenuCloseSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M440-280v-400L240-480l200 200Zm80 160h80v-720h-80v720Z"/></svg>';
 
-const arrowMenuOpenSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M360-120v-720h80v720h-80Zm160-160v-400l200 200-200 200Z"/></svg';
+const arrowMenuOpenSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M360-120v-720h80v720h-80Zm160-160v-400l200 200-200 200Z"/></svg>';
 
 const arrowRightAltSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor"><path d="m560-240-56-58 142-142H160v-80h486L504-662l56-58 240 240-240 240Z"/></svg>';
 
-const arrowShapeUpSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M320-120v-240H120l360-440 360 440H640v240H320Zm80-80h160v-240h111L480-674 289-440h111v240Zm80-240Z"/></svg';
+const arrowShapeUpSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M320-120v-240H120l360-440 360 440H640v240H320Zm80-80h160v-240h111L480-674 289-440h111v240Zm80-240Z"/></svg>';
 
-const arrowShapeUpStackSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M360-160v-120H160l320-360 320 360H600v120H360Zm80-80h80v-120h102L480-520 338-360h102v120ZM160-480l320-360 320 360H693L480-720 267-480H160Zm320 120Z"/></svg';
+const arrowShapeUpStackSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M360-160v-120H160l320-360 320 360H600v120H360Zm80-80h80v-120h102L480-520 338-360h102v120ZM160-480l320-360 320 360H693L480-720 267-480H160Zm320 120Z"/></svg>';
 
-const arrowShapeUpStack2SVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M360-40v-120H160l320-360 320 360H600v120H360Zm80-80h80v-120h102L480-400 338-240h102v120ZM160-360l320-360 320 360H693L480-600 267-360H160Zm0-200 320-360 320 360H693L480-800 267-560H160Zm320 320Z"/></svg';
+const arrowShapeUpStack2SVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M360-40v-120H160l320-360 320 360H600v120H360Zm80-80h80v-120h102L480-400 338-240h102v120ZM160-360l320-360 320 360H693L480-600 267-360H160Zm0-200 320-360 320 360H693L480-800 267-560H160Zm320 320Z"/></svg>';
 
 const arrowUpwardAltSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor"><path d="M440-240v-368L296-464l-56-56 240-240 240 240-56 56-144-144v368h-80Z"/></svg>';
 
@@ -76,11 +76,11 @@ const checkCircleSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" vi
 
 const checkOutlineSVG = '<svg xmlns="http://www.w3.org/2000/svg"  height="24" viewBox="0 -960 960 960" width="24" fill="currentColor"><path d="m 381,-240 424,-424 -57,-56 -368,367 -169,-170 -57,57 z m 0,113 -339,-339 169,-170 170,170 366,-367 172,168 z"/><path fill="#ffffff" d="m 381,-240 424,-424 -57,-56 -368,367 -169,-170 -57,57 z m 366,-593 c -498,-84.66667 -249,-42.33333 0,0 z"/></svg>';
 
-const chevronLeftSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg';
+const chevronLeftSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>';
 
-const chevronLineUpSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-640v-80h480v80H240Zm56 416-56-56 240-240 240 240-56 56-184-184-184 184Z"/></svg';
+const chevronLineUpSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M240-640v-80h480v80H240Zm56 416-56-56 240-240 240 240-56 56-184-184-184 184Z"/></svg>';
 
-const chevronRightSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg';
+const chevronRightSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>';
 
 const closeSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg>';
 
@@ -104,9 +104,9 @@ const dangerousSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" view
 
 const dashboardSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M520-600v-240h320v240H520ZM120-440v-400h320v400H120Zm400 320v-400h320v400H520Zm-400 0v-240h320v240H120Zm80-400h160v-240H200v240Zm400 320h160v-240H600v240Zm0-480h160v-80H600v80ZM200-200h160v-80H200v80Zm160-320Zm240-160Zm0 240ZM360-280Z"/></svg>';
 
-const dataArraySVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M600-160v-80h120v-480H600v-80h200v640H600Zm-440 0v-640h200v80H240v480h120v80H160Z"/></svg';
+const dataArraySVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M600-160v-80h120v-480H600v-80h200v640H600Zm-440 0v-640h200v80H240v480h120v80H160Z"/></svg>';
 
-const dataObjectSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M560-160v-80h120q17 0 28.5-11.5T720-280v-80q0-38 22-69t58-44v-14q-36-13-58-44t-22-69v-80q0-17-11.5-28.5T680-720H560v-80h120q50 0 85 35t35 85v80q0 17 11.5 28.5T840-560h40v160h-40q-17 0-28.5 11.5T800-360v80q0 50-35 85t-85 35H560Zm-280 0q-50 0-85-35t-35-85v-80q0-17-11.5-28.5T120-400H80v-160h40q17 0 28.5-11.5T160-600v-80q0-50 35-85t85-35h120v80H280q-17 0-28.5 11.5T240-680v80q0 38-22 69t-58 44v14q36 13 58 44t22 69v80q0 17 11.5 28.5T280-240h120v80H280Z"/></svg';
+const dataObjectSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M560-160v-80h120q17 0 28.5-11.5T720-280v-80q0-38 22-69t58-44v-14q-36-13-58-44t-22-69v-80q0-17-11.5-28.5T680-720H560v-80h120q50 0 85 35t35 85v80q0 17 11.5 28.5T840-560h40v160h-40q-17 0-28.5 11.5T800-360v80q0 50-35 85t-85 35H560Zm-280 0q-50 0-85-35t-35-85v-80q0-17-11.5-28.5T120-400H80v-160h40q17 0 28.5-11.5T160-600v-80q0-50 35-85t85-35h120v80H280q-17 0-28.5 11.5T240-680v80q0 38-22 69t-58 44v14q36 13 58 44t22 69v80q0 17 11.5 28.5T280-240h120v80H280Z"/></svg>';
 
 const deleteSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M280-120q-33 0-56.5-23.5T200-200v-520h-40v-80h200v-40h240v40h200v80h-40v520q0 33-23.5 56.5T680-120H280Zm400-600H280v520h400v-520ZM360-280h80v-360h-80v360Zm160 0h80v-360h-80v360ZM280-720v520-520Z"/></svg>';
 
@@ -198,11 +198,11 @@ const keyboardDoubleArrowRightSVG = '<svg xmlns="http://www.w3.org/2000/svg" hei
 
 const keyboardDoubleArrowUpSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m296-224-56-56 240-240 240 240-56 56-184-183-184 183Zm0-240-56-56 240-240 240 240-56 56-184-183-184 183Z"/></svg>';
 
-const labelImportantSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m80-160 240-320L80-800h520q19 0 36 8.5t28 23.5l216 288-216 288q-11 15-28 23.5t-36 8.5H80Zm160-80h360l180-240-180-240H240l180 240-180 240Zm270-240Z"/></svg';
+const labelImportantSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m80-160 240-320L80-800h520q19 0 36 8.5t28 23.5l216 288-216 288q-11 15-28 23.5t-36 8.5H80Zm160-80h360l180-240-180-240H240l180 240-180 240Zm270-240Z"/></svg>';
 
 const lapsSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m360-120-57-56 64-64h-7q-117 0-198.5-81.5T80-520q0-117 81.5-198.5T360-800h240q117 0 198.5 81.5T880-520q0 117-81.5 198.5T600-240v-80q83 0 141.5-58.5T800-520q0-83-58.5-141.5T600-720H360q-83 0-141.5 58.5T160-520q0 83 58.5 142.5T360-312h16l-72-72 56-56 160 160-160 160Z"/></svg>';
 
-const lastPageSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m280-240-56-56 184-184-184-184 56-56 240 240-240 240Zm360 0v-480h80v480h-80Z"/></svg';
+const lastPageSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m280-240-56-56 184-184-184-184 56-56 240 240-240 240Zm360 0v-480h80v480h-80Z"/></svg>';
 
 const layersSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M480-118 120-398l66-50 294 228 294-228 66 50-360 280Zm0-202L120-600l360-280 360 280-360 280Zm0-280Zm0 178 230-178-230-178-230 178 230 178Z"/></svg>';
 
@@ -314,9 +314,9 @@ const resetWrenchSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" vi
 
 const restartSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M440-122q-121-15-200.5-105.5T160-440q0-66 26-126.5T260-672l57 57q-38 34-57.5 79T240-440q0 88 56 155.5T440-202v80Zm80 0v-80q87-16 143.5-83T720-440q0-100-70-170t-170-70h-3l44 44-56 56-140-140 140-140 56 56-44 44h3q134 0 227 93t93 227q0 121-79.5 211.5T520-122Z"/></svg>';
 
-const rightPanelCloseSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M300-640v320l160-160-160-160ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm440-80h120v-560H640v560Zm-80 0v-560H200v560h360Zm80 0h120-120Z"/></svg';
+const rightPanelCloseSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M300-640v320l160-160-160-160ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm440-80h120v-560H640v560Zm-80 0v-560H200v560h360Zm80 0h120-120Z"/></svg>';
 
-const rightPanelOpenSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M460-320v-320L300-480l160 160ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm440-80h120v-560H640v560Zm-80 0v-560H200v560h360Zm80 0h120-120Z"/></svg';
+const rightPanelOpenSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M460-320v-320L300-480l160 160ZM200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm440-80h120v-560H640v560Zm-80 0v-560H200v560h360Zm80 0h120-120Z"/></svg>';
 
 const rotateSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M482-160q-134 0-228-93t-94-227v-7l-64 64-56-56 160-160 160 160-56 56-64-64v7q0 100 70.5 170T482-240q26 0 51-6t49-18l60 60q-38 22-78 33t-82 11Zm278-161L600-481l56-56 64 64v-7q0-100-70.5-170T478-720q-26 0-51 6t-49 18l-60-60q38-22 78-33t82-11q134 0 228 93t94 227v7l64-64 56 56-160 160Z"/></svg>';
 
@@ -348,7 +348,7 @@ const shareSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0
 
 const shoppingCartSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="currentColor"><path fill="currentColor" d="M 286.788,-81 C 266.92933,-81 250,-88.070667 236,-102.212 c -14,-14.142 -21,-31.142 -21,-51 0,-19.85867 7.07067,-36.788 21.212,-50.788 14.142,-14 31.142,-21 51,-21 19.85867,0 36.788,7.07067 50.788,21.212 14,14.142 21,31.142 21,51 0,19.85867 -7.07067,36.788 -21.212,50.788 -14.142,14 -31.142,21 -51,21 z m 400,0 C 666.92933,-81 650,-88.070667 636,-102.212 c -14,-14.142 -21,-31.142 -21,-51 0,-19.85867 7.07067,-36.788 21.212,-50.788 14.142,-14 31.142,-21 51,-21 19.85867,0 36.788,7.07067 50.788,21.212 14,14.142 21,31.142 21,51 0,19.85867 -7.07067,36.788 -21.212,50.788 -14.142,14 -31.142,21 -51,21 z M 205,-801 345,-513 h 288 l 161.074,-288 z m 0,0 h 589.074 c 15.30933,0 26.95767,7 34.945,21 7.98733,14 7.981,28 -0.019,42 l -135,243 c -7.33333,12.66667 -16.853,22.83333 -28.559,30.5 -11.70667,7.66667 -24.52033,11.5 -38.441,11.5 H 324 l -56,104 h 491 v 60 H 277 c -28,0 -48.16667,-9.33333 -60.5,-28 -12.33333,-18.66667 -12.16667,-39.66667 0.5,-63 L 281,-498 129,-820 H 51 v -60 h 117 z m 140,288 h 288 z"/></svg>';
 
-const singleArrowSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m311-200 200-280-200-280h98l200 280-200 280h-98Z"/></svg';
+const singleArrowSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m311-200 200-280-200-280h98l200 280-200 280h-98Z"/></svg>';
 
 const skeletonSVG = '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" fill="currentColor" viewBox="0 0 512 477.853"><path id="a" d="M244.758.927a30.28 30.28 0 0 0-30.291 30.291 30.28 30.28 0 0 0 30.291 30.292 30.28 30.28 0 0 0 30.25-30.292A30.28 30.28 0 0 0 244.758.927m0 18.416a11.883 11.883 0 0 1 11.875 11.875 11.883 11.883 0 0 1-11.875 11.875 11.883 11.883 0 0 1-11.916-11.875 11.883 11.883 0 0 1 11.916-11.875"/><use xlink:href="#a" transform="translate(94.487 84.329)"/><use xlink:href="#a" transform="translate(-93.337 105.028)"/><use xlink:href="#a" transform="translate(0 95.445)"/><use xlink:href="#a" transform="translate(113.652 208.139)"/><use xlink:href="#a" transform="translate(217.53 176.707)"/><use xlink:href="#a" transform="translate(-123.235 228.838)"/><use xlink:href="#a" transform="translate(-196.448 331.182)"/><use xlink:href="#a" transform="translate(0 186.29)"/><use xlink:href="#a" transform="translate(0 278.285)"/><use xlink:href="#a" transform="translate(83.754 373.155)"/><use xlink:href="#a" transform="translate(0 373.155)"/><use xlink:href="#a" transform="translate(-83.754 373.155)"/><path d="M246.966 153.863h21.333v85.333h-21.333z" transform="rotate(36.9)"/><path d="M158.974 122.672h21.333v96h-21.333z" transform="rotate(9.635)"/><path d="M136.668-210.731h21.333v53.333h-21.333z" transform="rotate(85.37)"/><path d="M234.071 51.791h21.333v53.333h-21.333z" /><path d="M142.866-306.143h21.333v53.333h-21.333z" transform="rotate(84.011)"/><path d="M318.294 170.379h21.333v85.333h-21.333z" transform="rotate(-6.034)"/><path d="M317.001-371.542h21.333v74.667h-21.333z" transform="rotate(74.352)"/><path d="M234.071 147.103h21.333v53.333h-21.333zM234.071 237.144h21.333v53.333h-21.333zM234.071 327.183h21.333v53.333h-21.333z" /><path d="M396.539-218.417h21.333v42.667h-21.333z" transform="rotate(89.074)"/><path d="M403.528-291.713h21.333v42.667h-21.333z" transform="rotate(87.767)"/><rect width="21.333" height="53.333" x="317.825" y="421.176" ry="9.583" /><rect width="21.333" height="53.333" x="150.317" y="421.176" ry="9.583" /></svg>';
 
@@ -384,11 +384,11 @@ const textureSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBo
 
 const undoSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M280-200v-80h284q63 0 109.5-40T720-420q0-60-46.5-100T564-560H312l104 104-56 56-200-200 200-200 56 56-104 104h252q97 0 166.5 63T800-420q0 94-69.5 157T564-200H280Z"/></svg>';
 
-const unfoldLessSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m356-160-56-56 180-180 180 180-56 56-124-124-124 124Zm124-404L300-744l56-56 124 124 124-124 56 56-180 180Z"/></svg';
+const unfoldLessSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m356-160-56-56 180-180 180 180-56 56-124-124-124 124Zm124-404L300-744l56-56 124 124 124-124 56 56-180 180Z"/></svg>';
 
 const unfoldLessDoubleSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="m354-2-56-56 183-183L664-58 608-1 481-128 354-2Zm0-200-56-56 183-183 183 183-56 57-127-127-127 126Zm127-318L297-704l57-57 127 127 126-127 57 57-183 184Zm0-200L297-904l57-57 127 127 126-127 57 57-183 184Z"/></svg>';
 
-const unfoldMoreSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M480-120 300-300l58-58 122 122 122-122 58 58-180 180ZM358-598l-58-58 180-180 180 180-58 58-122-122-122 122Z"/></svg';
+const unfoldMoreSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M480-120 300-300l58-58 122 122 122-122 58 58-180 180ZM358-598l-58-58 180-180 180 180-58 58-122-122-122 122Z"/></svg>';
 
 const unfoldMoreDoubleSVG = '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor"><path d="M481-1 298-184l56-56 127 126 127-127 56 57L481-1Zm0-200L298-384l56-56 127 126 127-127 56 57-183 183ZM354-520l-57-57 184-184 183 184-57 57-126-127-127 127Zm0-200-57-57 184-184 183 184-57 57-126-127-127 127Z"/></svg>';
 
