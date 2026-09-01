@@ -26,7 +26,17 @@ export declare const arrowDownwardAltSVG: string;
 
 export declare const arrowLeftAltSVG: string;
 
+export declare const arrowMenuCloseSVG: string;
+
+export declare const arrowMenuOpenSVG: string;
+
 export declare const arrowRightAltSVG: string;
+
+export declare const arrowShapeUpStack2SVG: string;
+
+export declare const arrowShapeUpStackSVG: string;
+
+export declare const arrowShapeUpSVG: string;
 
 export declare const arrowUpwardAltSVG: string;
 
@@ -66,6 +76,12 @@ export declare const checkOutlineSVG: string;
 
 export declare const checkSVG: string;
 
+export declare const chevronLeftSVG: string;
+
+export declare const chevronLineUpSVG: string;
+
+export declare const chevronRightSVG: string;
+
 export declare const closeSVG: string;
 
 export declare const codeSVG: string;
@@ -87,6 +103,10 @@ export declare const cycleSVG: string;
 export declare const dangerousSVG: string;
 
 export declare const dashboardSVG: string;
+
+export declare const dataArraySVG: string;
+
+export declare const dataObjectSVG: string;
 
 export declare const deleteSVG: string;
 
@@ -178,7 +198,11 @@ export declare const keyboardDoubleArrowRightSVG: string;
 
 export declare const keyboardDoubleArrowUpSVG: string;
 
+export declare const labelImportantSVG: string;
+
 export declare const lapsSVG: string;
+
+export declare const lastPageSVG: string;
 
 export declare const layersSVG: string;
 
@@ -290,6 +314,10 @@ export declare const resetWrenchSVG: string;
 
 export declare const restartSVG: string;
 
+export declare const rightPanelCloseSVG: string;
+
+export declare const rightPanelOpenSVG: string;
+
 export declare const rotate360SVG: string;
 
 export declare const rotateLeftSVG: string;
@@ -319,6 +347,8 @@ export declare const sfmLogoSVG: string;
 export declare const shareSVG: string;
 
 export declare const shoppingCartSVG: string;
+
+export declare const singleArrowSVG: string;
 
 export declare const skeletonSVG: string;
 
@@ -356,7 +386,11 @@ export declare const undoSVG: string;
 
 export declare const unfoldLessDoubleSVG: string;
 
+export declare const unfoldLessSVG: string;
+
 export declare const unfoldMoreDoubleSVG: string;
+
+export declare const unfoldMoreSVG: string;
 
 export declare const uploadSVG: string;
 
