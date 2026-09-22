@@ -276,6 +276,8 @@ export declare const personSVG: string;
 
 export declare const photoCameraSVG: string;
 
+export declare const photoSVG: string;
+
 export declare const playlistAddSVG: string;
 
 export declare const playSVG: string;
