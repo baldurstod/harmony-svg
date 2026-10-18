@@ -22,6 +22,8 @@ export declare const airwaveSVG: string;
 
 export declare const animationSVG: string;
 
+export declare const apparelSVG: string;
+
 export declare const arrowDownwardAltSVG: string;
 
 export declare const arrowLeftAltSVG: string;
@@ -64,7 +66,7 @@ export declare const bugReportSVG: string;
 
 export declare const cadenceSVG: string;
 
-export declare const cameraswitchSVG: string;
+export declare const cameraSwitchSVG: string;
 
 export declare const cancelSVG: string;
 
@@ -89,6 +91,8 @@ export declare const codeSVG: string;
 export declare const codeXmlSVG: string;
 
 export declare const conditionsSVG: string;
+
+export declare const contactSupportSVG: string;
 
 export declare const contentCopySVG: string;
 
@@ -252,6 +256,8 @@ export declare const musicOffSVG: string;
 
 export declare const myLocationSVG: string;
 
+export declare const notificationSettingsSVG: string;
+
 export declare const openInNewSVG: string;
 
 export declare const openWithSVG: string;
@@ -340,9 +346,25 @@ export declare const searchSVG: string;
 
 export declare const sentimentExcitedSVG: string;
 
+export declare const settingsAlertSVG: string;
+
+export declare const settingsCinematicBlurSVG: string;
+
+export declare const settingsMotionModeSVG: string;
+
+export declare const settingsNightSightSVG: string;
+
+export declare const settingsPanoramaSVG: string;
+
 export declare const settingsPhotoCameraSVG: string;
 
+export declare const settingsScreenSVG: string;
+
 export declare const settingsSVG: string;
+
+export declare const settingsTimelapseSVG: string;
+
+export declare const settingsVideoCameraSVG: string;
 
 export declare const sfmLogoSVG: string;
 

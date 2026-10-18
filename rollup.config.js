@@ -52,12 +52,7 @@ async function convertSVG() {
 		let exportName = name.toLowerCase().replace(/[-_][a-z0-9]/g, (group) => group[1].toUpperCase());
 		exportName += 'SVG';
 
-		let file = await fs.promises.readFile(inputDir + filename);
-
-		const decoder = new TextDecoder('utf-8');
-		const uint8Array = new Uint8Array(file);
-		const fileContent = decoder.decode(uint8Array);
-		//console.log(fileContent);
+		let fileContent = await fs.promises.readFile(inputDir + filename, {encoding:'utf8'});
 		const tsContent = `export const ${exportName}: string = '${fileContent.slice(0, -1)}';`
 
 		await fs.promises.writeFile(outputDir + name + '.ts', tsContent);
