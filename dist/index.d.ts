@@ -294,6 +294,10 @@ export declare const print3dSVG: string;
 
 export declare const questionMarkSVG: string;
 
+export declare const radioButtonCheckedSVG: string;
+
+export declare const radioButtonUncheckedSVG: string;
+
 export declare const rebaseEditSVG: string;
 
 export declare const rebaseSVG: string;
