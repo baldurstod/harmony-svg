@@ -7,34 +7,138 @@
 		html {
 			background-color: black;
 			color: white;
+			font-family: Arial, Helvetica, sans-serif;
 		}
 
 		body {
 			margin: 0;
+			--svg-size: 2.5rem;
+
+		}
+
+		.container {
+			display: flex;
+			flex-wrap: wrap;
+
+		}
+
+		label {
+			width: 15rem;
+			display: flex;
+			align-items: center;
+		}
+
+		.text {
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+
+		svg {
+			width: var(--svg-size);
+			height: var(--svg-size);
 		}
 	</style>
 	<script type="module">
 		import * as moduleSVG from '../dist/index.js';
 
+		const htmlBgPickerLabel = document.createElement('label');
+		const htmlBgPickerLabelText = document.createElement('span');
+		htmlBgPickerLabelText.innerText = 'Background color';
 		const htmlBgPicker = document.createElement('input');
-		const htmlColorPicker = document.createElement('input');
 		htmlBgPicker.type = 'color';
-		htmlColorPicker.type = 'color';
+		htmlBgPickerLabel.append(htmlBgPicker, htmlBgPickerLabelText);
 		htmlBgPicker.addEventListener('input', event => document.body.style.backgroundColor = event.target.value);
-		htmlColorPicker.addEventListener('input', event => document.body.style.color = event.target.value);
-		document.body.append(htmlBgPicker, htmlColorPicker);
 
+		const htmlColorPickerLabel = document.createElement('label');
+		const htmlColorPickerLabelText = document.createElement('span');
+		htmlColorPickerLabelText.innerText = 'Text color';
+		const htmlColorPicker = document.createElement('input');
+		htmlColorPicker.type = 'color';
+		htmlColorPickerLabel.append(htmlColorPicker, htmlColorPickerLabelText);
+		htmlColorPicker.addEventListener('input', event => document.body.style.color = event.target.value);
+
+		const htmlFilterLabel = document.createElement('label');
+		const htmlFilterLabelText = document.createElement('span');
+		htmlFilterLabelText.innerText = 'Filter';
+		const htmlFilter = document.createElement('input');
+		htmlFilterLabel.append(htmlFilter, htmlFilterLabelText);
+		htmlFilter.addEventListener('input', event => filter(event.target.value.toLowerCase()));
+
+
+		document.body.append(htmlBgPickerLabel, htmlColorPickerLabel, htmlFilterLabel);
+
+		const svgContainer = document.createElement('div');
+		svgContainer.className = 'container';
+		document.body.append(svgContainer);
+
+		const svgs = new Map();
 		for (const key in moduleSVG) {
 
-			const line = document.createElement('div');
-			const label = document.createElement('span');
-			label.innerText = key;
+			const label = document.createElement('label');
+			const text = document.createElement('span');
+			text.innerText = key;
+			text.className = 'text';
 			const svg = document.createElement('span');
 			svg.innerHTML = moduleSVG[key];
-			//line.innerHTML = value;
 
-			line.append(svg, label);
-			document.body.append(line);
+			label.append(svg, text);
+			svgContainer.append(label);
+			svgs.set(key, label);
+		}
+
+
+		const tagsJSON = await fetch('./tags.json');
+		const t = await tagsJSON.json();
+		console.info(t);
+
+
+		const tags = new Map();
+		for (const tagName in t) {
+			let exportName = tagName.toLowerCase().replace(/[-_][a-z0-9]/g, (group) => group[1].toUpperCase());
+			exportName += 'SVG';
+
+			const tag = t[tagName];
+			const tagArray = tag.split(',');
+			const cleanArray = []
+			for (const tag of tagArray) {
+				cleanArray.push((tag ?? '').trim().toLowerCase());
+			}
+
+			tags.set(exportName, cleanArray);
+		}
+		console.info(tags);
+
+
+
+		function filter(textFilter) {
+			for (const [key, label] of svgs) {
+				if (textFilter === '') {
+					display(label, true);
+					continue;
+				}
+
+				display(label, false);
+
+				const tagArray = tags.get(key);
+				if (!tagArray) {
+					continue;
+				}
+
+				for (const tag of tagArray) {
+					if (tag.startsWith(textFilter)) {
+						display(label, true);
+						continue;
+					}
+				}
+			}
+		}
+
+		function display(htmlElement, visible) {
+			if (visible) {
+				htmlElement.style.display = '';
+			} else {
+				htmlElement.style.display = 'none';
+			}
 		}
 	</script>
 </head>
