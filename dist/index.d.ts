@@ -96,6 +96,8 @@ export declare const contactSupportSVG: string;
 
 export declare const contentCopySVG: string;
 
+export declare const contentCutSVG: string;
+
 export declare const controlCameraSVG: string;
 
 export declare const controlPointDuplicateSVG: string;
@@ -168,6 +170,8 @@ export declare const fullscreenExitSVG: string;
 
 export declare const fullscreenSVG: string;
 
+export declare const grainSVG: string;
+
 export declare const graphicEqSVG: string;
 
 export declare const grid4x4SVG: string;
@@ -187,6 +191,8 @@ export declare const helpSVG: string;
 export declare const highlightSVG: string;
 
 export declare const homeSVG: string;
+
+export declare const imageSearchSVG: string;
 
 export declare const infoSVG: string;
 
@@ -238,6 +244,8 @@ export declare const manageAccountsSVG: string;
 
 export declare const manufacturingSVG: string;
 
+export declare const matterSVG: string;
+
 export declare const mediationSVG: string;
 
 export declare const menuSVG: string;
@@ -248,6 +256,8 @@ export declare const moreHorizSVG: string;
 
 export declare const moreVertSVG: string;
 
+export declare const movieEditSVG: string;
+
 export declare const movieSVG: string;
 
 export declare const musicNoteSVG: string;
@@ -255,6 +265,8 @@ export declare const musicNoteSVG: string;
 export declare const musicOffSVG: string;
 
 export declare const myLocationSVG: string;
+
+export declare const mysterySVG: string;
 
 export declare const notificationSettingsSVG: string;
 
